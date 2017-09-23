@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.hni.mobile"
-        versionCode = "1004"
-        version   = "1.4">
+        versionCode = "1005"
+        version   = "1.5">
     <name>HNI</name>
 
     <description>
