@@ -16,5 +16,5 @@
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "http://www.hni.ae/privacy-policy/"
-    "phonegap":{"id":"ae.hni.ios-app"}
+    "phonegap": {"id":"ae.hni.ios-app"}
 }
